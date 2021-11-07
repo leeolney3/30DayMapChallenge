@@ -1,5 +1,5 @@
 #30DayMapChallenge 06 Green
-#East Melbourne Green Canopy
+#East Melbourne: Green Canopy
 #Data source: https://data.melbourne.vic.gov.au/Environment/Tree-Canopies-2021-Urban-Forest-/krg7-hmyt (last updated: Aug 12, 2021)
 
 # load libraries 
@@ -15,14 +15,13 @@ font_add_google("Roboto")
 showtext_auto()
 
 # read tree canopy shp file
-tree = read_sf('data/Tree_Canopies_2021/geo_export_e32098a2-c9e6-451b-82e7-d554ccd3213f.shp')
+tree = read_sf("Tree_Canopies_2021/geo_export_e32098a2-c9e6-451b-82e7-d554ccd3213f.shp")
 
 # read VIC suburb/locality boundaries shp file
 # source: https://data.gov.au/dataset/ds-dga-af33dd8c-0534-4e18-9245-fc64440f742e/details
-sub = read_sf('data/VIC_LOC_POLYGON_shp/vic_localities.shp') 
+sub = read_sf('VIC_LOC_POLYGON_shp/vic_localities.shp') 
 # get polygon of East Melbourne
 east_melb = sub %>% filter(LOC_NAME=="East Melbourne")
-
 
 # get East Melbourne area coords
 obj = ggplot(data = east_melb) +
@@ -40,16 +39,16 @@ ggplot(data = east_melb) +
   coord_sf(xlim = c(144.9704, 144.9923), 
            ylim = c(-37.82389, -37.80696),
            expand = FALSE) +
-  theme_void(base_family = "Libre Franklin") +
-  theme(plot.title = element_markdown(size = 10,face="bold", hjust=.5),
-        plot.caption=element_text(size=6, hjust=.5, family="Roboto", margin=margin(5,0,0,0)),
+  theme_void() +
+  theme(plot.title = element_markdown(size = 10,face="bold", hjust=.5, family="Libre Franklin"),
+        plot.caption=element_text(size=5.5, hjust=.5, family="Roboto", margin=margin(5,0,0,0)),
         plot.background=element_rect(fill="white", color=NA),
-        plot.subtitle = element_markdown(size = 8, hjust=.5,margin=margin(3, 0, 0, 0))) +
+        plot.subtitle = element_markdown(size = 7, lineheight=1.2, family="Roboto",
+                                         hjust=.5,margin=margin(3, 0, 0, 0))) +
   labs(title = "EAST MELBOURNE <span style='color:#7e8e49;'>TREE CANOPY</span>", 
-       subtitle = "37.8130°S / 144.9850°E<br>",
-       caption="#30DayMapChallenge Day 05 | Data source: data.melbourne.vic.gov.au (last updated: Aug 12, 2021)")
+       subtitle = "37.8130°S / 144.9850°E<br><span style='font-size:5.8pt';'>The polygons represents actual tree canopy extents on both private and public property as of Aug 12, 2021</span><br>",
+       caption="#30DayMapChallenge Day 07 | Data source: data.melbourne.vic.gov.au (last updated: Aug 12, 2021)")
 
-# save plot
-ggsave(file="07_green.png", width=5, height=5.8, bg="white")
-ggsave(file="07_green.pdf", width=5, height=5.8)
-
+# save 
+ggsave(file="07_green.pdf", width=5, height=5.8, units="in")
+ggsave(file="07_green.png", width=5, height=5.8, units="in")
