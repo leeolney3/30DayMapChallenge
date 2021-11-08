@@ -20,4 +20,4 @@
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/06_red/06_red.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/06_red)
 
 ### [07 Green](https://github.com/leeolney3/30DayMapChallenge/tree/main/07_green)
-[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/07_green/07_green.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/07_green)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/07_green/07_green_1.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/07_green)
