@@ -21,3 +21,6 @@
 
 ### [07 Green](https://github.com/leeolney3/30DayMapChallenge/tree/main/07_green)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/07_green/07_green_1.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/07_green)
+
+### [07 Blue](https://github.com/leeolney3/30DayMapChallenge/tree/main/08_blue)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/08_blue/08_blue.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/08_blue)
