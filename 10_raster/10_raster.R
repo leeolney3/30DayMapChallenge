@@ -1,75 +1,63 @@
-#30DayMapChallenge 10 Monochrome 
-#Kilauea, Hawaii 96754, USA
-#USGS elevation data from the ArcGIS REST API and map data from openstreetmap.org
+#30DayMapChallenge 10 Raster
+#Namibia Annual Precipitation
+#Data: WorldClim by way of {raster} R package
 
 # load libaries 
-library(raster)
-library(rayshader)
-library(osmdata)
-library(sf)
 library(tidyverse)
+library(raster)
+library(sf)
+library(ggtext)
 
-## Part 1: get elevation data
-#reference: https://wcmbishop.github.io/rayshader-demo/
+# add font
+library(sysfonts)
+library(showtext)
+font_add_google("Roboto Mono")
+showtext_auto()
 
-# bounding box of Kilauea, Hawaii 96754, USA (https://boundingbox.klokantech.com/)
-bbox <- list(
-  p1 = list(long = -159.422598, lat = 22.196185),
-  p2 = list(long = -159.392682, lat = 22.22117)
-)
+# get climate data {raster}
+climate=getData('worldclim', var='bio',res=2.5)
 
-# set image size 
-# define_image_size function reference: https://github.com/wcmbishop/rayshader-demo/blob/master/R/image-size.R
-image_size <- define_image_size(bbox, major_dim = 600)
+# get country shape 
+sf<- rnaturalearth::ne_countries(country = 'Namibia', returnclass = "sf")
+#crs(climate)
+#crs(sf)
+# transform crs
+sf2 = st_transform(sf,crs(climate))
 
-# download elev data
-# get_usgs_elevation_data function reference: https://github.com/wcmbishop/rayshader-demo/blob/master/R/elevation-api.R
-elev_file <- file.path("data", "sf-elevation.tif")
-get_usgs_elevation_data(bbox, size = image_size$size, file = elev_file,
-                        sr_bbox = 4326, sr_image = 4326)
+# crop 
+climate2 <- crop(climate,extent(10.864,27.871,-29.654,-16.008))
+#plot(climate2)
 
-# load elevation data
-elev_img <- raster(elev_file)
-elev_matrix <- matrix(
-  extract(elev_img, extent(elev_img), buffer = 1000), 
-  nrow = ncol(elev_img), ncol = nrow(elev_img)
-)
+# annual precipitation df
+raster <- climate2$bio12 #get raster
+m = mask(raster, sf2) #mask
 
-## Part 2: base map with road from osm 
-# code adapted from https://www.javierorraca.com/posts/2021-09-07-rayshader/ and https://www.tylermw.com/adding-open-street-map-data-to-rayshader-maps-in-r/
-
-# Open street map roads
-osm_bbox = c(-159.422598,22.196185,-159.392682,22.22117)
-
-highway_sf <- opq(osm_bbox) %>% 
-  add_osm_feature("highway") %>% 
-  osmdata_sf() 
-
-# Transform lines into new projection
-lines <- st_transform(highway_sf$osm_lines,crs = crs(elev_img))
-
-big_st = lines %>% filter(highway %in% c("motorway", "primary", "motorway_link", "primary_link"))
-
-small_st = lines %>% filter(highway %in% c("residential", "living_street",
-                            "unclassified","service","footway"))
- 
-rcartocolor::carto_pal(n=7, name="OrYel")
+df_prec <- as.data.frame(m,xy=TRUE)%>%drop_na()
+summary(df_prec$bio12)
 
 # plot
-elev_matrix %>% 
-  height_shade(texture = (grDevices::colorRampPalette(c("#0d585f","#287274","#448c8a",
-  "#63a6a0","#89c0b6","#b4d9cc","#e4f1e1")))(256)) %>%
-  add_shadow(lamb_shade(elev_matrix),0.6) %>%
-  add_shadow(ambient_shade(elev_matrix), 0) %>%
-  add_shadow(texture_shade(elev_matrix,detail=8/10,contrast=9,brightness = 11), 0.1) %>%
-  add_overlay(
-    generate_line_overlay(
-      big_st, extent = extent(elev_img),
-      linewidth = 3, color = "white",
-      heightmap = elev_matrix)) %>% 
-  add_overlay(
-    generate_line_overlay(
-      small_st, extent = extent(elev_img),
-      linewidth = 2, color = "white",
-      heightmap = elev_matrix)) %>% 
-  plot_map()
+ggplot()+
+  geom_raster(aes(x=x,y=y,fill=bio12),data=df_prec)+
+  geom_sf(fill='transparent',data=sf2, color="transparent")+
+  #rcartocolor::scale_fill_carto_c(palette="ag_GrnYl") +
+  colorspace::scale_fill_continuous_sequential(palette="PuBuGn", rev=F,
+                                               limits=c(8,698),
+                                               breaks= c(8,200,400,600,698)) +
+  coord_sf(expand=c(0,0))+
+  labs(x='Longitude',y='Latitude',
+       fill="<span style='font-size:14pt'><b>NAMIBIA</b></span'><br>Annual precipitation (mm)",
+       caption='Data: WorldClim (2020) by way of {raster} R package') +
+  theme_void(base_size = 9, base_family = "Roboto mono") +
+  theme(plot.background = element_rect(fill="#6c757d", color=NA),
+        plot.margin=margin(.5,.5,.3,.5, unit="cm"),
+        legend.position = "top",
+        legend.title=element_markdown(lineheight = 2),
+        text=element_text(color="white")) +
+  guides(fill = guide_colorbar(title.position = "top", 
+                                title.hjust = .5, 
+                                barwidth = unit(17, "lines"), 
+                                barheight = unit(.3, "lines")))
+                                
+# save
+ggsave(file="10_raster.pdf", width=5.2, height=6,units="in")
+ggsave(file="10_raster.png", width=5.2, height=6,units="in")
