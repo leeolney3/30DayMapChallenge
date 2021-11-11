@@ -33,3 +33,6 @@
 
 ### [11 3D](https://github.com/leeolney3/30DayMapChallenge/tree/main/11_3D)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/11_3D/11_3D.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/11_3D)
+
+### [12 Population](https://github.com/leeolney3/30DayMapChallenge/tree/main/12_Population)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/12_Population/population.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/12_Population)
