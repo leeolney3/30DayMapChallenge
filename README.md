@@ -30,3 +30,6 @@
 
 ### [10 Raster](https://github.com/leeolney3/30DayMapChallenge/tree/main/10_raster)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/10_raster/10_raster.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/10_raster)
+
+### [11 3D](https://github.com/leeolney3/30DayMapChallenge/tree/main/11_3D)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/11_3D/11_3D.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/11_3D)
