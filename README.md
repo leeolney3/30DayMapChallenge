@@ -34,5 +34,8 @@
 ### [11 3D](https://github.com/leeolney3/30DayMapChallenge/tree/main/11_3D)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/11_3D/11_3D.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/11_3D)
 
-### [12 Population](https://github.com/leeolney3/30DayMapChallenge/tree/main/12_Population)
-[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/12_Population/population.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/12_Population)
+### [12 Population](https://github.com/leeolney3/30DayMapChallenge/tree/main/12_population)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/12_population/population.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/12_population)
+
+### [13 Data challenge 2: Natural Earth](https://github.com/leeolney3/30DayMapChallenge/tree/main/13_ne)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/13_ne/13_ne.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/13_ne)
