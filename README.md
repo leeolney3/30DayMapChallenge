@@ -39,3 +39,6 @@
 
 ### [13 Data challenge 2: Natural Earth](https://github.com/leeolney3/30DayMapChallenge/tree/main/13_ne)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/13_ne/13_ne.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/13_ne)
+
+### [14 Map with a new tool](https://github.com/leeolney3/30DayMapChallenge/tree/main/14_new_tool)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/14_new_tool/14_tool_cropped.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/14_new_tool)
