@@ -42,3 +42,9 @@
 
 ### [14 Map with a new tool](https://github.com/leeolney3/30DayMapChallenge/tree/main/14_new_tool)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/14_new_tool/14_tool_cropped.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/14_new_tool)
+
+### [16 Urban/rural](https://github.com/leeolney3/30DayMapChallenge/tree/main/16_urban_rural)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/16_urban_rural/16_urban.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/16_urban_rural)
+
+### [17 Urban/rural](https://github.com/leeolney3/30DayMapChallenge/tree/main/17_land)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/17_land/17_land.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/17_land)
