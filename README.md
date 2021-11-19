@@ -46,5 +46,8 @@
 ### [16 Urban/rural](https://github.com/leeolney3/30DayMapChallenge/tree/main/16_urban_rural)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/16_urban_rural/16_urban.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/16_urban_rural)
 
-### [17 Urban/rural](https://github.com/leeolney3/30DayMapChallenge/tree/main/17_land)
+### [17 Land](https://github.com/leeolney3/30DayMapChallenge/tree/main/17_land)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/17_land/17_land.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/17_land)
+
+### [17 Water](https://github.com/leeolney3/30DayMapChallenge/tree/main/18_water)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/18_water/18_water.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/18_water)
