@@ -49,5 +49,11 @@
 ### [17 Land](https://github.com/leeolney3/30DayMapChallenge/tree/main/17_land)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/17_land/17_land.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/17_land)
 
-### [17 Water](https://github.com/leeolney3/30DayMapChallenge/tree/main/18_water)
+### [18 Water](https://github.com/leeolney3/30DayMapChallenge/tree/main/18_water)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/18_water/18_water.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/18_water)
+
+### [19 Island(s)](https://github.com/leeolney3/30DayMapChallenge/tree/main/19_islands)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/19_islands/19_islands.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/19_islands)
+
+### [20 Movement](https://github.com/leeolney3/30DayMapChallenge/tree/main/20_movement)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/20_movement/20_movement.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/20_movement)
