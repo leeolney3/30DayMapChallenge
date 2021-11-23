@@ -5,7 +5,7 @@ Submissions in November 2021, details on the #30DayMapChallenge [here](https://g
 | Day 01-10 | Day 11-20 | Day 21-30 |
 | :--- | :--- | :--- |
 | [01 Points](https://github.com/leeolney3/30DayMapChallenge/tree/main/01_points) | [11 3D](https://github.com/leeolney3/30DayMapChallenge/tree/main/11_3D) | [21 Elevation](https://github.com/leeolney3/30DayMapChallenge/tree/main/21_elevation) |
-| [02 Lines](https://github.com/leeolney3/30DayMapChallenge/tree/main/02_lines) | [12 Population](https://github.com/leeolney3/30DayMapChallenge/tree/main/12_population) | 22 Boundaries |
+| [02 Lines](https://github.com/leeolney3/30DayMapChallenge/tree/main/02_lines) | [12 Population](https://github.com/leeolney3/30DayMapChallenge/tree/main/12_population) | [22 Boundaries](https://github.com/leeolney3/30DayMapChallenge/tree/main/22_boundaries) |
 | [03 Polygons](https://github.com/leeolney3/30DayMapChallenge/tree/main/03_polygons) | [13 Data Challenge 2: Natural Earth](https://github.com/leeolney3/30DayMapChallenge/tree/main/13_ne) | 23 Data challenge 3: GHSL |
 | [04 Hexagons](https://github.com/leeolney3/30DayMapChallenge/tree/main/04_hexagons) | [14 Map with a new tool](https://github.com/leeolney3/30DayMapChallenge/tree/main/14_new_tool) | 24 Historical map |
 | [05 Data Challenge 1: OpenStreetMap](https://github.com/leeolney3/30DayMapChallenge/tree/main/05_OSM) | 15 Map made without using a computer | 25 Interactive map |
@@ -74,3 +74,6 @@ Submissions in November 2021, details on the #30DayMapChallenge [here](https://g
 
 ### [21 Elevation](https://github.com/leeolney3/30DayMapChallenge/tree/main/21_elevation)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/21_elevation/21_elevation.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/21_elevation)
+
+### [22 Boundaries](https://github.com/leeolney3/30DayMapChallenge/tree/main/22_boundaries)
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/22_boundaries/22_boundaries_p1.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/22_boundaries)
