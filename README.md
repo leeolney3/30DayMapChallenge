@@ -15,9 +15,17 @@ My submissions to [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChal
 | [09 Monochrome](https://github.com/leeolney3/30DayMapChallenge/tree/main/09_monochrome) | [19 Island(s)](https://github.com/leeolney3/30DayMapChallenge/tree/main/19_islands) | 29 NULL |
 | [10 Raster](https://github.com/leeolney3/30DayMapChallenge/tree/main/10_raster) | [20 Movement](https://github.com/leeolney3/30DayMapChallenge/tree/main/20_movement) | 30 Metamapping day |
 
-## Highlights
-### [Day 24 Historical](https://github.com/leeolney3/30DayMapChallenge/tree/main/24_historical)
-[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/24_historical/24_historical.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/24_historical)
+## Maps
+#### [Day 25 Interactive map](https://rpubs.com/leeolney3/day25)
+<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/25_interactive/screenshots/25_interactive_sc1.png" width="48%">
+
+#### [Day 24 Historical map](https://github.com/leeolney3/30DayMapChallenge/tree/main/24_historical)
+<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/24_historical/24_historical.png" width="48%">
+
+#### [Day 23 Data challenge 3: GHSL Global Human Settlement Layer](https://github.com/leeolney3/30DayMapChallenge/tree/main/23_ghsl)
+<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/23_ghsl/23_ghsl_p1.png" width="48%"> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/23_ghsl/23_ghsl_p2.png" width="48%">
+
+
 ### [Day 21 Elevation - Glacier National Park](https://github.com/leeolney3/30DayMapChallenge/tree/main/21_elevation)
 [![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/21_elevation/21_elevation.png)](https://github.com/leeolney3/30DayMapChallenge/tree/main/21_elevation)
 ### [Day 20 Movement](https://github.com/leeolney3/30DayMapChallenge/tree/main/20_movement)
