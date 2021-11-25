@@ -29,6 +29,6 @@ My submissions to [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChal
 
 <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/19_islands/19_islands.png" width="33%"></img> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/20_movement/20_movement.png" width="33%"></img> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/21_elevation/21_elevation.png" width="33%"></img>
 
-<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/22_boundaries/22_boundaries_p1.png" width="33%"></img> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/23_ghsl/23_ghsl_p1.png" width="15%"></img> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/23_ghsl/23_ghsl_p2.png" width="15%"></img> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/24_historical/24_historical.png" width="33%"></img>
+<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/22_boundaries/22_boundaries_p1.png" width="33%"></img> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/23_ghsl/23_ghsl_p1.png" width="33%"></img> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/23_ghsl/23_ghsl_p2.png" width="33%"></img> 
 
-<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/25_interactive/screenshots/25_interactive_sc1.png" width="33%"></img>
+<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/24_historical/24_historical.png" width="33%"></img> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/25_interactive/screenshots/25_interactive_sc1.png" width="33%"></img>
