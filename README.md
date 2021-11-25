@@ -16,8 +16,8 @@ My submissions to [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChal
 | [10 Raster](https://github.com/leeolney3/30DayMapChallenge/tree/main/10_raster) | [20 Movement](https://github.com/leeolney3/30DayMapChallenge/tree/main/20_movement) | 30 Metamapping day |
 
 ## Maps
-#### [Day 25 Interactive map](https://rpubs.com/leeolney3/day25)
-<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/25_interactive/screenshots/25_interactive_sc1.png">
+#### [Day 25 Interactive map](https://github.com/leeolney3/30DayMapChallenge/tree/main/25_interactive)
+[<img alt="alt_text" width="49%" src="https://github.com/leeolney3/30DayMapChallenge/blob/main/25_interactive/screenshots/25_interactive_sc1.png" />](https://rpubs.com/leeolney3/day25)
 
 #### [Day 24 Historical map](https://github.com/leeolney3/30DayMapChallenge/tree/main/24_historical)
 <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/24_historical/24_historical.png">
