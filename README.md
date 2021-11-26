@@ -57,7 +57,7 @@ My submissions to [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChal
 <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/13_ne/13_ne.png" height="450">
 
 #### [Day 12 Population](https://github.com/leeolney3/30DayMapChallenge/tree/main/12_population)
-<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/12_population/population.png" height="450">
+<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/12_population/12_population.png" height="450">
 
 #### [Day 11 3D](https://github.com/leeolney3/30DayMapChallenge/tree/main/11_3D)
 <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/11_3D/11_3D.png" height="450">
