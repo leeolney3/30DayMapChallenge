@@ -1,6 +1,8 @@
 ## #30DayMapChallenge November 2021
 
-My submissions to [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) initiated by Topi Tjukanov. 
+My submissions to [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) started by [Topi Tjukanov](https://twitter.com/tjukanov). 
+
+The following table contains links to the code and plot(s) for each submission. 
 
 | Day 01-10 | Day 11-20 | Day 21-30 |
 | :--- | :--- | :--- |
