@@ -11,11 +11,14 @@ My submissions to [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChal
 | [05 Data Challenge 1: OpenStreetMap](https://github.com/leeolney3/30DayMapChallenge/tree/main/05_OSM) | [15 Map made without using a computer](https://twitter.com/leeolney3/status/1464508909725622276) | [25 Interactive map](https://github.com/leeolney3/30DayMapChallenge/tree/main/25_interactive) |
 | [06 Red](https://github.com/leeolney3/30DayMapChallenge/tree/main/06_red) | [16 Urban Rural](https://github.com/leeolney3/30DayMapChallenge/tree/main/16_urban_rural) | [26 Choropleth map](https://github.com/leeolney3/30DayMapChallenge/tree/main/26_choropleth) |
 | [07 Green](https://github.com/leeolney3/30DayMapChallenge/tree/main/07_green) | [17 Land](https://github.com/leeolney3/30DayMapChallenge/tree/main/17_land) | [27 Heatmap](https://github.com/leeolney3/30DayMapChallenge/tree/main/27_heatmap) |
-| [08 Blue](https://github.com/leeolney3/30DayMapChallenge/tree/main/08_blue) | [18 Water](https://github.com/leeolney3/30DayMapChallenge/tree/main/18_water) | 28 The Earth is not flat |
+| [08 Blue](https://github.com/leeolney3/30DayMapChallenge/tree/main/08_blue) | [18 Water](https://github.com/leeolney3/30DayMapChallenge/tree/main/18_water) | [28 The Earth is not flat](https://github.com/leeolney3/30DayMapChallenge/tree/main/28_not_flat) |
 | [09 Monochrome](https://github.com/leeolney3/30DayMapChallenge/tree/main/09_monochrome) | [19 Island(s)](https://github.com/leeolney3/30DayMapChallenge/tree/main/19_islands) | 29 NULL |
 | [10 Raster](https://github.com/leeolney3/30DayMapChallenge/tree/main/10_raster) | [20 Movement](https://github.com/leeolney3/30DayMapChallenge/tree/main/20_movement) | 30 Metamapping day |
 
 ## Maps
+
+#### [Day 28 The Earth is not flat](https://github.com/leeolney3/30DayMapChallenge/tree/main/28_not_flat)
+<img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/28_not_flat/28_not_flat_p1.png" width="48%"> <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/28_not_flat/28_not_flat_p2.png" width="48%">
 
 #### [Day 27 Heatmap](https://github.com/leeolney3/30DayMapChallenge/tree/main/27_heatmap)
 <img src="https://github.com/leeolney3/30DayMapChallenge/blob/main/27_heatmap/27_heatmap.png" height="450">
