@@ -1,6 +1,4 @@
-<h1 style="font-weight:normal" align="center">
-  &nbsp;#30DayMapChallenge November 2021&nbsp;
-</h1>
+## #30DayMapChallenge November 2021
 
 My submissions to [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) initiated by Topi Tjukanov. 
 
