@@ -1,6 +1,8 @@
 ## #30DayMapChallenge 
 My contributions to [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) in November 2021, shared on [Twitter](https://twitter.com/leeolney3). 
 
+Feedback is very welcome via [Twitter](https://twitter.com/leeolney3) or [mail](mailto:leeolney3@gmail.com).
+
 The following table contains links to the plot (and R code) for each submission. 
 
 | Day 01-10 | Day 11-20 | Day 21-30 |
