@@ -22,3 +22,4 @@ Feedback is very welcome via [Twitter](https://twitter.com/leeolney3) or [mail](
 *  06 Network - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/06_Network.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/06_Network.R)
 *  07 Raster - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/07_Raster.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/07_Raster.R)
 *  08 Data: OpenStreetMap - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/08_OpenStreetMap.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/08_OpenStreetMap.R)
+*  10 A bad map - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/10_A-bad-map.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/10_A-bad-map.R)
