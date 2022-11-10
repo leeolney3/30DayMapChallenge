@@ -38,10 +38,10 @@ ggplot() +
   cowplot::theme_map(12) +
   theme(plot.margin=margin(.7,.5,.3,.5,unit="cm"),
         plot.background = element_rect(color=NA, fill="#FFFBF7"),
-        plot.title=element_text(hjust=.5,family="IBM Plex Serif", color="#31504B"),
+        plot.title=element_text(hjust=.5,size=15,family="IBM Plex Serif", color="#31504B"),
+        plot.subtitle=element_text(hjust=.5,family="IBM Plex Serif", color="#31504B"),
         plot.caption=element_text(size=8.5,hjust=.5,color="#31504B", family="IBM Plex Sans"),
         ) +
-  labs(title="Lower 48 states in proportion to the number of radio stations\n",
-       caption="#30DayMapChallenge Day 10: A bad map | Data from Wikipedia via #TidyTuesday")
+  labs(caption="Lower 48 states in proportion to the number of radio stations | Data from #TidyTuesday", title="A bad map", subtitle="#30DayMapChallenge Day 10")
        
 ggsave("10_A-bad-map.png", height=6, width=8)       
