@@ -29,6 +29,6 @@ ggplot() +
         plot.caption=element_text(hjust=.5, color="grey40", family=f2, size=7)) +
   annotate(geom="text", x=-94.75, y=33.9, label="Red River County, TX", hjust=1, family=f2,color="#692323", fontface="bold", size=4.8) +
   annotate(geom="text", x=-94.75, y=33.88, label="Road Network", hjust=1, family=f2,color="#692323", size=4.5) +
-  labs(caption="#30DayMapChallenge Day 10 Color Friday: Red | Source: US Census via {tigris} R package")
+  labs(caption="#30DayMapChallenge Day 11 Color Friday: Red | Source: US Census via {tigris} R package")
   
-ggsave("day11.png",height=7,width=7)
+ggsave("11_red.png",height=7,width=7)
