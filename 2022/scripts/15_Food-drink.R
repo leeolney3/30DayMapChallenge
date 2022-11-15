@@ -55,7 +55,7 @@ join2 %>%
         plot.caption=element_text(size=7,hjust=0, color="grey25",margin=margin(t=15)),
         plot.background = element_rect(color=NA, fill="#fafafa")) +
   labs(caption="#30DayMapChallenge Day 15 Food/drink\nSource: Liang, X., & Andris, C. (2021). Measuring McCities: Landscapes of chain and independent restaurants in the United States. Environment and\nPlanning B: Urban Analytics and City Science, 49(2), 585-602. https://doi.org/10.1177/23998083211014896",
-       title="Share of chain restaurants by Core Based Statistical Areas (CBSAs)") 
+       title="Share of chain restaurants by Core Based Statistical Area (CBSA)") 
 
 ggsave("15_Food-drink.png", height=6, width=7)
 
