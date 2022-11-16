@@ -22,7 +22,7 @@ primary_ne = st_intersection(primary, ne_states)
 
 # Map
 ggplot() +
-  geom_sf(data=ne, fill="#1A3C40", color="#193140") +
+  geom_sf(data=ne_states, fill="#1A3C40", color="#193140") +
   geom_sf(data=primary_ne, color="white", size=.4) +
   coord_sf(expand=FALSE) +
   theme_void() +
