@@ -11,7 +11,7 @@ Feedback is very welcome via [Twitter](https://twitter.com/leeolney3) or [mail](
 
 ***
 ### [2022 submissions](https://github.com/leeolney3/30DayMapChallenge/tree/main/2022)
-* 2022's challenge categories and details [here](https://github.com/tjukanovt/30DayMapChallenge/)
+* 2022's challenge [categories and details](https://github.com/tjukanovt/30DayMapChallenge/)
 
 <ins>Submissions by day</ins>
 *  01/11/2022 Points - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/01_Points.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/01_Points.R)
