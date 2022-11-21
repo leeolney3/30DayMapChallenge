@@ -11,7 +11,7 @@ Feedback is very welcome via [Twitter](https://twitter.com/leeolney3) or [mail](
 
 ***
 ### [2022 submissions](https://github.com/leeolney3/30DayMapChallenge/tree/main/2022)
-* 2022's challenge categories and details [here](https://github.com/tjukanovt/30DayMapChallenge/)
+* 2022's challenge [categories and details](https://github.com/tjukanovt/30DayMapChallenge/)
 
 <ins>Submissions by day</ins>
 *  01/11/2022 Points - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/01_Points.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/01_Points.R)
@@ -27,3 +27,4 @@ Feedback is very welcome via [Twitter](https://twitter.com/leeolney3) or [mail](
 *  13/11/2022 5 minute map - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/13_5min.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/13_5min.R)
 *  15/11/2022 Food/drink - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/15_Food-drink.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/15_Food-drink.R)
 *  16/11/2022 Minimal - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/16_Minimal.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/16_Minimal.R)
+*  18/11/2022 Colour Friday: Blue - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/18_Blue.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/18_Blue.R)
