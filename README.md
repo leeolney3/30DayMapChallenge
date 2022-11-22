@@ -24,6 +24,7 @@ Feedback is very welcome via [Twitter](https://twitter.com/leeolney3) or [mail](
 *  08/11/2022 Data: OpenStreetMap - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/08_OpenStreetMap.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/08_OpenStreetMap.R)
 *  10/11/2022 A bad map - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/10_A-bad-map.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/10_A-bad-map.R)
 *  11/11/2022 A Colour Friday: Red - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/11_Red.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/11_Redp.R)
+*  12/11/2022 Scale - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/12_scale.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/12_Scale.R)
 *  13/11/2022 5 minute map - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/13_5min.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/13_5min.R)
 *  15/11/2022 Food/drink - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/15_Food-drink.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/15_Food-drink.R)
 *  16/11/2022 Minimal - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/16_Minimal.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/16_Minimal.R)
