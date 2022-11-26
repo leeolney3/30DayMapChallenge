@@ -13,6 +13,8 @@ Feedback is very welcome via [Twitter](https://twitter.com/leeolney3) or [mail](
 ### [2022 submissions](https://github.com/leeolney3/30DayMapChallenge/tree/main/2022)
 * 2022's challenge [categories and details](https://github.com/tjukanovt/30DayMapChallenge/)
 
+[![name](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/08_OpenStreetMap.png)](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022)
+
 <ins>Submissions by day</ins>
 *  01/11/2022 Points - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/01_Points.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/01_Points.R)
 *  02/11/2022 Lines - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/02_Lines.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/02_Lines.R)
@@ -30,3 +32,5 @@ Feedback is very welcome via [Twitter](https://twitter.com/leeolney3) or [mail](
 *  16/11/2022 Minimal - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/16_Minimal.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/16_Minimal.R)
 *  18/11/2022 Colour Friday: Blue - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/18_Blue.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/18_Blue.R)
 *  21/11/2022 Data: Kontur Population Dataset - [map](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/maps/21_Kontur.png), [code](https://github.com/leeolney3/30DayMapChallenge/blob/main/2022/scripts/21_Kontur.R)
+
+
